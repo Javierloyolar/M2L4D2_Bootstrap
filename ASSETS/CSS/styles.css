@@ -27,3 +27,25 @@ ul {
     filter: drop-shadow(0 6px 8px rgba(0, 0, 0, 0.35));
     cursor: pointer;
 }
+
+.whatsapp {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+}
+
+.whatsapp img {
+    width: 50px;
+}
+
+.logo2 {
+    width: 200px;
+    height: 200px;
+}
+
+footer {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+}
