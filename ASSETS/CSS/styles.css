@@ -49,3 +49,7 @@ footer {
     align-items: center;
     justify-content: space-evenly;
 }
+
+.bg-lightblue {
+    background-color: lightblue;
+}
